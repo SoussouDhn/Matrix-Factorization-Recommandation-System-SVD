@@ -5,7 +5,7 @@ The models to be implemented are detailed in the article Koren08 namely:
 Baseline Estimates;
 SVD;
 
-The project must be delivered in the following format:
+The project contains the following files:
 Python file describing the compilation and formatting of training and test data;
 Python file for the implementation and training of the Baseline Estimates model;
 Python file for the implementation and training of the SVD model;
