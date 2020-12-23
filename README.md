@@ -1,6 +1,6 @@
 # Matrix-Factorization-Recommandation-System-SVD
 
-This involves implementing 2 prediction models for a video content recommendation problem. The predictions relate to the interest expressed by a client u in a content i. The recommendation is to offer the client a list of content ordered according to the estimated interest.
+This involves implementing 2 prediction models for a video content recommendation problem (74M individual). The predictions relate to the interest expressed by a client u in a content i. The recommendation is to offer the client a list of content ordered according to the estimated interest.
 The models to be implemented are detailed in the article Koren08 namely:
 Baseline Estimates;
 SVD;
