@@ -16,4 +16,5 @@ Python file allowing to load and apply the 2 models on the test data.
 
 
 the project brief : https://colab.research.google.com/drive/1oJC40QfCi6Jgvuz-_X10307rFciGN0ox?usp=sharing#scrollTo=0leEaW8UXl1-
+
 the link of the data: https://drive.google.com/file/d/1Ted1erR6zUHLk4SiE8pOu4h8ef3x7OP7/view
